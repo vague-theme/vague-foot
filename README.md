@@ -8,7 +8,7 @@
 
 1. Clone the repository. For example into `~/.config/foot`:
    ```sh
-   git clone https://github.com/vague-theme/foot.git ~/.config/foot/vague
+   git clone https://github.com/vague-theme/vague-foot.git ~/.config/foot/vague
    ```
 
 2. Add an include directive to your `foot.ini`:
