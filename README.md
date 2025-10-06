@@ -6,14 +6,11 @@
 
 ## Usage
 
-1. Clone the repository. For example into `~/.config/foot`:
-   ```sh
-   git clone https://github.com/vague-theme/vague-foot.git ~/.config/foot/vague
-   ```
+1. Save [vague.ini](vague.ini) file in `~/.config/foot/` directory.
 
 2. Add an include directive to your `foot.ini`:
    ```ini
-   include=~/.config/foot/vague/vague.ini
+   include=~/.config/foot/vague.ini
    ```
 
 ## Thanks to contributors
