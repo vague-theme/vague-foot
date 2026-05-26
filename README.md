@@ -12,9 +12,3 @@
    ```ini
    include=~/.config/foot/vague.ini
    ```
-
-## Thanks to contributors
-
-- [skewb1k](https://github.com/skewb1k)
-- [vague2k](https://github.com/vague2k)
-
